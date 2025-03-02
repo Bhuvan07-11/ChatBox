@@ -24,6 +24,8 @@ This project is a simple chatbot built using HTML, CSS, JavaScript, Express.js, 
 
     ```sh
     npm install
+    npm init -y
+    npm install express openai
     ```
 
 3. Start the server:
