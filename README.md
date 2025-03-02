@@ -51,11 +51,16 @@ Feel free to fork this repository and submit pull requests. Contributions are we
 ## Output
 
 * Interface
+
 ![Screenshot 2025-03-02 174959](https://github.com/user-attachments/assets/88171c3b-2e38-4d17-8a3d-baaa963b9440)
 
 * Entering the input
+
 ![Screenshot 2025-03-02 175035](https://github.com/user-attachments/assets/dba41be9-4aee-4a40-a8ed-121e3b1d47b2)
 
+* Result of Answer
+
+![Screenshot 2025-03-02 181211](https://github.com/user-attachments/assets/b5430e3b-e381-4284-8f4b-5dbe3916b1db)
 
 
 
