@@ -16,7 +16,7 @@ This project is a simple chatbot built using HTML, CSS, JavaScript, Express.js, 
 1. Clone the repository:
 
     ```sh
-    git clone https://github.com/yourusername/chatgpt-chatbot.git
+    git clone https://github.com/Bhuvan07-11/ChatBox.git
     cd chatgpt-chatbot
     ```
 
@@ -48,7 +48,14 @@ This project is a simple chatbot built using HTML, CSS, JavaScript, Express.js, 
 
 Feel free to fork this repository and submit pull requests. Contributions are welcome!
 
-## License
+## Output
 
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+![Screenshot 2025-03-02 174959](https://github.com/user-attachments/assets/88171c3b-2e38-4d17-8a3d-baaa963b9440)
+
+*Entering the input
+![Screenshot 2025-03-02 175035](https://github.com/user-attachments/assets/dba41be9-4aee-4a40-a8ed-121e3b1d47b2)
+
+
+
+
 
