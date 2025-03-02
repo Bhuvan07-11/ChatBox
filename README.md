@@ -27,11 +27,10 @@ This project is a simple chatbot built using HTML, CSS, JavaScript, Express.js, 
     npm init -y
     npm install express openai
     ```
-
-3. Start the server:
+3. open the live server:
 
     ```sh
-    node server.js
+    index.html
     ```
 
 ## Usage
