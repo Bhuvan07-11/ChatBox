@@ -50,6 +50,7 @@ Feel free to fork this repository and submit pull requests. Contributions are we
 
 ## Output
 
+* Interface
 ![Screenshot 2025-03-02 174959](https://github.com/user-attachments/assets/88171c3b-2e38-4d17-8a3d-baaa963b9440)
 
 * Entering the input
